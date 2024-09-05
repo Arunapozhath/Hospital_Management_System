@@ -74,8 +74,6 @@ Contributions are welcome! Please fork the repository and submit pull requests w
 
 ## License
 
-## License
-
 This project is based on a tutorial by (http://www.youtube.com/@TechieCoder). 
 
 The original code and tutorial are provided for educational purposes only. Please refer to the original YouTube video for more information on usage rights and licensing: (http://www.youtube.com/@TechieCoder).
